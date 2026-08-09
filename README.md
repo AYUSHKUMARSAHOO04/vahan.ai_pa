@@ -101,7 +101,7 @@ Logistic regression (5-fold CV, class-weighted for the 0.3% base rate), target =
 - "Today" for cohort-age/maturity purposes = the latest `upload_date` in the file (6 Aug 2026), since no separate extraction timestamp is given.
 - Only 54 FT events total - every statistic here carries meaningful sampling uncertainty.
 - No cost/revenue data - cohorts are ranked on conversion rate only, not cost-efficiency.
-- No call-timestamp/agent data - limits how actionable the Attempted→Connected finding can be made.
+- No call-timestamp/agent data - limits how actionable the Attempted → Connected finding can be made.
 - All driver-model relationships are correlational; none should be read as causal without a controlled experiment.
 
 ## Key Takeaways
